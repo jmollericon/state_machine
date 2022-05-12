@@ -1,5 +1,5 @@
 {
-    "name": "jorge/state_machine_php",
+    "name": "jorge/state_machine",
     "description": "This is an example about Behavior Patterns, in this case State Pattern",
     "authors": [
         {
