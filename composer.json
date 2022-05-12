@@ -1,0 +1,11 @@
+{
+    "name": "jorge/state_machine_php",
+    "description": "This is an example about Behavior Patterns, in this case State Pattern",
+    "authors": [
+        {
+            "name": "Jorge Mollericon",
+            "email": "jlmollericon@gmail.com"
+        }
+    ],
+    "require": {}
+}
