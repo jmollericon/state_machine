@@ -7,5 +7,16 @@
             "email": "jlmollericon@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\States\\": "src/States/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests"
+        }
+    },
     "require": {}
 }
