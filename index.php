@@ -16,4 +16,12 @@ use App\AudioPlayer;
 
 $context = new AudioPlayer();
 
+print_r($context->state);
+
+$context->clickLock();
+
+print_r($context->state);
+
+$context->clickPlay();
+
 print_r($context);
